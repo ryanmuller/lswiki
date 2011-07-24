@@ -1,8 +1,28 @@
-http://www.wired.com/magazine/2011/07/ff_khan/all/1
+Neal:
 
-Best part is Bill Gates' quote arguing against constructionists. Won't spoil it for you.
+> http://singularityhub.com/2011/02/13/yes-the-khan-academy-is-the-future-of-education-video/
+> Looks like they've got some pretty sophisticated features, but still no SRS. Watch the video for full experience.
 
-Very interesting link from the comments: https://fnoschese.wordpress.com/2011/02/21/pt-pseudoteaching-mit-physics/
+> Some questions: how do we position ourselves and/or differentiate ourselves from the khan academy? They've got vastly more funds, and a lot of similar ideas.
+
+> However, it seems we have the potential to add some value on top of the core content features-- specifically, synced notes to the video, and spaced repetition! Right now, they measure "proficiency" in modules based on a 10-question correct streak, but it's not clear you ever go back and review from previous modules. So in that situation, some spaced repetition algorithm could add a lot if benefit-- looks like they collect a lot of analytics on time to answer questions, etc. Which could be used to assign an "ease factor" to that module in an SRS algorithm!
+
+Ryan: 
+
+> They have the exercise and video stuff down really really nice. Yeah, they don't have SRS (they could easily add it were it seen as an advantage of a competitor), but I think there's a more important issue. They and a whole lot of other competitors stop at the stage of providing exercises for stuff that is extremely easy to make into exercises. So while it's cool to earn badges and shit, I don't think there will be a huge fundamental difference if little Johnny uses Khan or one of 10,000 other arithmetic exercise programs. Of course the video content and being web accessible and decently useable is really nice. 
+
+> Something that we are struggling with now -- not solved yet obviously-- is having arbitrary content and using collaboration to solve the problem of generating neat little exercises for all of human knowledge. I do think KA has a leg up in the fact that Khan is a really smart guy and can probably figure out how do that for a wide range of subject matter. But I think the collaboration stuff potentially has a much greater power of the masses. Just extremely hard to do right.
+
+> Or... if you can't beat 'em, join 'em? It's an open source project with a strong community involvement: https://sites.google.com/a/khanacademy.org/forge/for-developers/getting-started-with-the-code
+Maybe Gates can give us an inside connection to open up a research arm... (But who knows what conflict of interest it'd have with CMU or GT's stuff....)
+
+Ryan:
+
+> http://www.wired.com/magazine/2011/07/ff_khan/all/1
+
+> Best part is Bill Gates' quote arguing against constructionists. Won't spoil it for you.
+
+> Very interesting link from the comments: https://fnoschese.wordpress.com/2011/02/21/pt-pseudoteaching-mit-physics/
 
 Neal: 
 
