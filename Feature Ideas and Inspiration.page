@@ -19,6 +19,7 @@ StackOverflow (the other stackexchange sites) are growing quickly and have a gre
 Use APIs for pulling in content (and even features). These can be activated by special tags. Examples: #define:生词 could query a dictionary, Wolfram Alpha for interactive math applets, etc. (these are on Wave somewhere) See more on Mathematica as an immersive environment: http://www.wolfram.com/mathematica/customer-stories/teaching-real-world-problems-with-mathematica.html
 
 Wave integration ideas:
+
 * bot for SRS interaction
 * aggregate content on site for instructors and students through wave 
 * use wave for documents, select sections to convert to SRS
@@ -34,3 +35,16 @@ Vague feature idea: Old philosophy was "everything is a chunk", but this is bad 
 An easy way to use a "list-centric" document. This one is a good example that would benefit -- basically the document will consist of a bunch of appended, fairly disjoint items, and there should be cards pointing to each of these.
 
 Look into: http://www.learncentral.org/
+
+Interesting tactic to drive simultaneous studying...!
+
+> 10 people are online right now studying the same things you are.
+>
+> Get help now - Click here
+>
+> Check out what's happening in your study groups
+>
+> 10 people are online studying MIT 6.0 Intro Computer Science (OCW).
+>
+> 9 out of 9 questions have been answered in the past day.
+ 

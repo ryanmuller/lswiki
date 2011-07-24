@@ -2,7 +2,7 @@
 
 ## To do
 
-Improve structure, clean up pages. The goals should be making it possible to comprehend everything that exists here and then to be able to quickly locate interesting things. 
+Improve structure, clean up pages. The goals should be making it possible to comprehend everything that exists here and to be able to quickly locate things or add things in a reasonable place.
 
 ## Guidelines 
 
@@ -26,6 +26,7 @@ Improve structure, clean up pages. The goals should be making it possible to com
 
 # Technical
 
+* [Design]()
 * [Development Methodology]()
 * [Web-based Chat Tech]()
 
@@ -34,6 +35,7 @@ Improve structure, clean up pages. The goals should be making it possible to com
 * [Productivity]()
 * [Learning]()
 * [Khan Academy]()
+* [Flipped Classroom]()
 * [Spaced Repetition and Memory]()
 * [Heisig Method]()
 * [Education Model]()
@@ -42,6 +44,10 @@ Improve structure, clean up pages. The goals should be making it possible to com
 * [Big Questions]()
 * [Learning Philosophies]()
 * [Serendipity and Information on the Web]()
+* [Question Templates]()
+* [Test-first Learning]()
+* [Andes Physics Tutor]()
+* [Exercising With Learnstream]()
 
 ## Book reviews
 
@@ -49,11 +55,13 @@ Improve structure, clean up pages. The goals should be making it possible to com
 * [How Children Fail]()
 * [What Smart Students Know]()
 * [Brain Rules]()
+* [Mindstorms]()
 
 # Learnstream Content
 
 * [Quick Content Ideas]()
 * [How to Pwn Course]()
+* [Physics]()
 
 # Business
 
@@ -68,4 +76,14 @@ Improve structure, clean up pages. The goals should be making it possible to com
 # General discussion and feedback
 
 * [State of Learnstream]()
+* [Next Steps for Learnstream]()
 * [Feedback]()
+* [Meeting With Yong]()
+
+# Non-Learnstream Ideas
+
+* [UI Testing Suite]()
+* [TaskPlayer]()
+* [Learntrack]()
+* [URL Shuffle]()
+* [Scanning Club]()
