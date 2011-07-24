@@ -1,0 +1,21 @@
+Étude: teaches mastery through precise and careful repetition. [I like this book already!] Do them with the whole team, in a place where you can break into small groups and use whiteboards. Debrief for a few minutes afterward.
+
+Phases are week-by-week release cycles with planning, analysis, design & coding, testing, and deployment all going on in that cycle.
+
+Product manager + 2 onsite customers per 3 programmers. One tester per 4 programmers.
+
+First steps:
+
+Include a vertical stripe of the application for the first iteration.
+
+For the first story, work with the entire group together (one driver). 
+
+Have coding standards discussion.
+
+Root-cause analysis: Ask why 5 times.
+
+Get verbal agreement at the beginning of an activity -- will motivate people to further participation.
+
+Daily stand-up meeting <10 min, ~30 sec updates from each member; quickly negotiate pairs or advising for the day
+
+Weekly Iteration demo: ~10 min. Don't simplify or exaggerate problems. Release a demo for customers.
