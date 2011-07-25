@@ -14,7 +14,7 @@ Art of Problem Solving (http://www.artofproblemsolving.com) is by far the larges
 * AoPS hosts a number of user blogs. However, there are limited options for sorting, filtering, or aggregating the data. Some of the entries, with user permission, could be aggregated through features of our site.
 * The AoPS Wiki contains a wealth of community-authored information on mathematics competition and problem solving concepts. Ideally, we would like to reuse as much information as possible. AoPS Wiki currently has no official documentation license1.
 
-The iTest (http://www.theitest.com) is a “free online mathematics competition for high school students throughout the United States and abroad.” While the iTest continues to gain momentum, it has not achieved a vibrant math community largely because it does not offer a sufficient amount of user exposure and interaction. We would like to form a partnership with iTest by offering a social network to host their competition, which has already established a strong user base and problem writing.
+[The iTest](http://www.theitest.com) is a “free online mathematics competition for high school students throughout the United States and abroad.” While the iTest continues to gain momentum, it has not achieved a vibrant math community largely because it does not offer a sufficient amount of user exposure and interaction. We would like to form a partnership with iTest by offering a social network to host their competition, which has already established a strong user base and problem writing.
 
 ## Technology Overview
 

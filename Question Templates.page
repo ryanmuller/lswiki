@@ -1,9 +1,11 @@
 # Generic question templates for Learnstream.
  
-NOTE: If using the MathJax chrome extension, it seems to be default-configured to use the backslash open-paren ... backslash close-paren notation, not the single dollar signs for inline equations.
+For LaTeX, use the traditional dollar/double dollar signs! 
+
+$x^2 = 5$ is irrational!
  
-\( x^2 = 5 \) is irrational!
- 
+TODO: This isn't working for me, I think it may be a Chrome thing but i'm too lazy to start up firefox on this machine.
+
 Questions to answer in general:
 
 * Does it check step-by-step work of the student?
