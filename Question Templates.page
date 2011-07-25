@@ -1,7 +1,8 @@
 # Generic question templates for Learnstream.
  
 For LaTeX, use the traditional dollar/double dollar signs! 
-$x^2 = 5$ is irrational!
+
+\$x^2 = 5\$ is irrational!
  
 Questions to answer in general:
 
