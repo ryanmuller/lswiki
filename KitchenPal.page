@@ -1,6 +1,7 @@
 Kitchen Pal allows you to plan everything you’re going to cook in the near future and then generate a grocery list of everything you need.
 I hadn’t heard of anything like this until just the other day. But what is a good web app without some competition? In our case it’s [Tasty Planner](http://tastyplanner.com/). Luckily there are many useful features that Tasty Planner is lacking and things about it that are just annoying. For instance, if you have two of the same item in different recipes, it is listed twice in the grocery list.
 I could sit here and name ideas all day, so why don’t I?
+
 * Import and parse recipes from common recipe sites
 * Attempt to parse recipes in any format
 * Cooking Log – Allow rating, comments, and pictures for each time a meal is prepared
