@@ -7,14 +7,16 @@ Improve structure, clean up pages. The goals should be making it possible to com
 ### Transfered so far
 * Learnstream-Dev Google Group (by Ryan)
 * LS Dev course on Learnstream Beta (by Ryan)
+* PBWorks wiki (by Neal)
 
 ### Need to transfer
 * Blog
 * Google Docs
-* PBWorks wiki (Neal, in progress)
 * Twitter
 * Google Reader shares/other interesting shared articles
 * Dropbox Research
+
+Also, the Chinese Character game theory post from PBWiki (I got the rest of them -- Neal).
 
 ## Guidelines 
 
@@ -43,6 +45,7 @@ Improve structure, clean up pages. The goals should be making it possible to com
 * [Design]()
 * [Development Methodology]()
 * [Web-based Chat Tech]()
+* [Technical Resources]()
 
 # Philosophy/background research
 
@@ -104,3 +107,4 @@ Improve structure, clean up pages. The goals should be making it possible to com
 * [Learntrack]()
 * [URL Shuffle]()
 * [Scanning Club]()
+* [Other Ideas]()
