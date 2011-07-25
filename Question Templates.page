@@ -1,8 +1,7 @@
 # Generic question templates for Learnstream.
  
-NOTE: If using the MathJax chrome extension, it seems to be default-configured to use the backslash open-paren ... backslash close-paren notation, not the single dollar signs for inline equations.
- 
-\( x^2 = 5 \) is irrational!
+For LaTeX, use the traditional dollar/double dollar signs! 
+$x^2 = 5$ is irrational!
  
 Questions to answer in general:
 
