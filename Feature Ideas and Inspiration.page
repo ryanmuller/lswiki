@@ -4,13 +4,9 @@ Card acquisition (and essentially all studying) is on auto-pilot. An initial set
 
 Twitter API: a fast way to add things to LS while sharing them with your usual workflow. You can opt-in to either import all of your tweets or you can tag them with @learnbot. These will be imported into an "imported items" course (unless you match a hashtag to a course name) as cards.
 
-## Game-like features
-
 An iPhone app about adding game features to mundane tasks: http://www.rexbox.co.uk/epicwin/
 
 Web game for learning math: http://www.artofproblemsolving.com/Alcumus/
-
-Long article on life/game intersection including the people I would otherwise link to (Jesse Schell and Jane McGonigal) http://www.fastcompany.com/magazine/151/everyones-a-player.html
 
 Quora is huge right now, and it seems to do a great job with the question and answer features. See what we can steal, or what would be a good opportunity for integration. No API yet :/
 
