@@ -1,3 +1,5 @@
+## Forum and blog discussions
+
 Just C&Ping stuff from the old forum. This can be combined with some of our other ideas, somehow. A lot of the stuff seems so similar that I just want to do a grand unifying project that solves all of education and learning. More thoughts on that later.
 
 Me:
@@ -51,3 +53,13 @@ I think it was Marko or Seva who started with the textbook idea, so you’ll hav
 I actually posted about Tricki. This idea was written before that came out. This post is pretty old, I was just trying to dig up everything we’ve talked about.
 
 The graph idea came to me when studying economics. But you can find several examples of where this is nice in a variety of fields with Mathematica’s demonstrations in Mathematica Player. See http://demonstrations.wolfram.com/ Another idea that I later discovered was already implemented…
+
+
+## Other thoughts
+
+* Given course objectives, generate textbook from database (perhaps structured as in [Learnstream Atomic]())
+* E.g., can have different levels of rigor
+* Example: Light and Matter textbook uses LaTeX conditionals and other code to generate two different versions of some of its mechanics material. However, there should be another layer so no one has to dig through and rewrite code in the tex files.
+* Actually, Learnstream-like systems should just replace textbooks (obviously, supporting tablets/e-readers at some point)
+
+
