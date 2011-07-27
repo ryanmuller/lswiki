@@ -5,7 +5,7 @@ This wiki is where we are collecting our thoughts related to our goals with [Lea
 ## To do
 
 * Go through [unsorted references](Front Page#unsorted) and Learnstream "loose ends"
-* Organize [other projects](Front Page#other-projects) better
+* Organize [other projects](Front Page#other-projects) better -- _partially done_
 * Create summary/starting point pages (both in case others join the party and for ourselves to get a handle on everything)
 * Convert discussions/monologues into more wiki-pages unless the discussion is particularly worth saving. Examples: [Khan Academy]() [Competition Response]() [Spaced Repetition and Memory]() [Heisig Method]() [Flipped Classroom]()
 * Finish transferring 
@@ -137,29 +137,41 @@ These are some loose ends:
 
 # Other Projects
 
-* [UI Testing Suite]()
-* [TaskPlayer]()
-* [Learntrack]()
+## In progress
+
 * [URL Shuffler]()
-* [Scanning Club]()
-* [Gosu Guides]()
-* [GameTheory Blog]()
-* [GosuCamp]()
-* [Math Textbook]()
+
+## Education
+
+* [Markov Virtual Tutoring]()
+* [Learntrack]()
 * [CS Book for Teens]()
-* [Hire a Pro Gamer]()
 * [Language Learning RPG]()
-* [GamesOS]()
+* [Math Textbook]()
+
+## Other web apps/web services
+
+* [TaskPlayer]()
+* [UI Testing Suite]()
 * [KitchenPal]()
 * [Quigg]()
 * [SocialHere]()
-* [Tellmewhattodo]()
 * [Closed Community Advertising]()
 * [Math Competition Community]()
 * [OneStop]() - web development with no middleman: hosting, version control, and IDE all in one place
 * [CollabTube]() - an easy way to make a collaborative playlist for YouTube
 * [MOOSE]()
 * [Thought for Food]()
+* [Tellmewhattodo]()
+
+## Other
+
+* [Scanning Club]()
+* [Gosu Guides]()
+* [GameTheory Blog]()
+* [GosuCamp]()
+* [Hire a Pro Gamer]() - This can be combined with a more generic "tech productivity consulting" idea
+* [GamesOS]()
 * [Shell Scripting]()
 
 ## Screenplays and shows
