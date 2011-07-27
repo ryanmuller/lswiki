@@ -1,5 +1,7 @@
 # Welcome to the Learnstream Wiki
 
+This wiki is where we are collecting our thoughts related to our goals with [Learnstream](Front\ Page#learnstream) and [other projects](Front\ Page#other-projects). Broadly, our goal is to make the world a better place, with a primary focus using technology to [learn](Learning) and [be productive](Productivity).
+
 ## To do
 
 Improve structure, clean up pages. The goals should be making it possible to comprehend everything that exists here and to be able to quickly locate things or add things in a reasonable place.
@@ -24,11 +26,16 @@ Improve structure, clean up pages. The goals should be making it possible to com
 * What to use blog for: push out interesting articles extracted from our discussion and wiki. Don't draft new ideas in the blog and disregard all of the other steps. You should draft the post in Google Docs anyways, as WordPress has a shitty editor (imho).
 * What to use (other thing) for: DON'T!!!! Four is enough.
 
-# Product Design
+# Learnstream 
 
-* [Learnstream Atomic]()
-* [Learnstream Fruit]()
-* [Learnstream Plus]()
+The main iterations of Learnstream have code names:
+
+* [Learnstream Atomic](): Introduced the idea of [Knowledge Components]() and uses a system of lessons and exercises for students to learn and study material.
+* [Learnstream Fruit](): A more streamlined process built on top of Learnstream Atomic
+* [Learnstream Plus](): Social features with Google+
+
+These are some loose ends:
+
 * [Feature Ideas and Inspiration]()
 * [High Level App Design]()
 * [Cool Ways to Use LS]()
@@ -38,7 +45,7 @@ Improve structure, clean up pages. The goals should be making it possible to com
 * [User Study]()
 * [Graphic Design Inspiration]()
 
-# Technical
+# Technical resources
 
 * [Design]()
 * [Development Methodology]()
@@ -46,21 +53,6 @@ Improve structure, clean up pages. The goals should be making it possible to com
 * [Technical Resources]()
 
 # Philosophy/background research
-
-* [Cognitive Science Approach]()
-* [Education Model]()
-* [Collaborative Learning]()
-* [Collaboration and the Web]()
-* [Big Questions]()
-* [Learning Philosophies]()
-* [Serendipity and Information on the Web]()
-* [Question Templates]()
-* [Test-first Learning]()
-* [Exercising With Learnstream]()
-* [Online Language Learning Communities]()
-* [Knowledge for a Lifetime]()
-* [Computerizing Math]()
-* [Study Hacks]()
 
 ## Concepts
 
@@ -85,13 +77,29 @@ Improve structure, clean up pages. The goals should be making it possible to com
 * [Mindstorms]()
 * [Accidental Genius]()
 
+## Unsorted 
+
+* [Cognitive Science Approach]()
+* [Education Model]()
+* [Collaborative Learning]()
+* [Collaboration and the Web]()
+* [Big Questions]()
+* [Learning Philosophies]()
+* [Serendipity and Information on the Web]()
+* [Question Templates]()
+* [Test-first Learning]()
+* [Exercising With Learnstream]()
+* [Online Language Learning Communities]()
+* [Knowledge for a Lifetime]()
+* [Computerizing Math]()
+* [Study Hacks]()
+
 # Learnstream Content
 
 * [Quick Content Ideas]()
 * [How to Pwn Course]()
 * [Physics]()
 * [Question Templates]()
-
 
 # Business
 
@@ -109,7 +117,7 @@ Improve structure, clean up pages. The goals should be making it possible to com
 * [Feedback]()
 * [Meeting With Yong]()
 
-# Non-Learnstream Ideas
+# Other Projects
 
 * [UI Testing Suite]()
 * [TaskPlayer]()
