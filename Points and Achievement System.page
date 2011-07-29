@@ -1,8 +1,12 @@
-Technical intro: I seemed to finally debugged the points middleware so that at least a couple things are working as intended. The way this works is that the middleware runs anytime any view is called, then if the view is matched to any one that should add points for a user, it looks at the request and the function parameters to determine who to give points to and adds that total to the database (a field under Enrollment). 
+# Why use points?
 
-Good reasons to keep this as a database value rather than computing it each time: a) will never decrease b) much easier to look at quickly -- like comparing all of the users against each other. I'm still not sure whether we should also have a model that keeps track of all of the point additions. Some of them are reconstructable, but again that introduces the problem of vanishing points (vanishing the ability to account for points). 
+Gaining points is fun and addictive. In the case of Real Analysis, it allows us to determine who is participating. It also lets us incentivize users in certain ways to make the "society" of each course work better. One design philosophy for points is that they should be small and easy to acquire -- this avoids the problem of reducing internal motivation by giving out huge rewards. Another thing to consider is that random interval training seems to be extremely effective, so we might want to do x points with probability p (see http://www.cracked.com/article_18461_5-creepy-ways-video-games-are-trying-to-get-you-addicted.html). So there is a question of whether users should know how they're getting points at all. On one hand it's fun to try to guess what will give you lots of points; on the other 
 
-Design intro: Gaining points is fun and addictive. In the case of Real Analysis, it allows us to determine who is participating. It also lets us incentivize users in certain ways to make the "society" of each course work better. One design philosophy for points is that they should be small and easy to acquire -- this avoids the problem of reducing internal motivation by giving out huge rewards. Another thing to consider is that random interval training seems to be extremely effective, so we might want to do x points with probability p (see http://www.cracked.com/article_18461_5-creepy-ways-video-games-are-trying-to-get-you-addicted.html). So there is a question of whether users should know how they're getting points at all. On one hand it's fun to try to guess what will give you lots of points; on the other 
+# Balancing
+
+A nice result would be to reward partipation and community interaction over, say, coming into the course with more knowledge. For students with different initial values and learning rates, we can try to balance out the points by offering points for asking questions (seeking help) and doing many reviews. Advanced students also have a chance to earn many points by helping others.
+
+# Example system
 
 Action ----- Reward ----- (Not-so-)Hidden agenda
 
@@ -33,6 +37,8 @@ Badges - This is something you can witness at StackOverflow (and probably Foursq
 * “Socrates” - create question with 50+ users: 50
 * “Keating” - create course with 50+ users: 50
 * “Einstein” - accumulate total score of 1000 from question answers: 500
+
+# References
 
 Some links about applied game design:
 * http://gamingtheclassroom.wordpress.com/syllabus/

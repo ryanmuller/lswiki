@@ -1,3 +1,11 @@
+# Questions and ideas
+
+* How to get questions to the right people?
+* How to leverage crowdsourcing? -- difficulty, categorization, dependencies, component tagging
+* Can we tie in question-answering with reviewing?
+* How to encourage participation? (Examples: [LiveMocha](Online Language Learning Communities), StackOverflow)
+* Can we use ideas from markets or algorithmic game theory?
+
 # Theoretical basis for collaborative learning
 
 This exercise is to explore collaborative learning from the ground up, attempting not to bias towards using Learnstream in any way. Given that it may be possible to learn by doing, we'll start with collaboration in general.
@@ -35,3 +43,4 @@ Let's look at I2G1 for now.
 5. Generate examples and exercises
 
 Collaboration Inspirations: science, wikipedia, open source software
+

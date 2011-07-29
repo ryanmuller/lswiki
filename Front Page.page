@@ -9,6 +9,7 @@ This wiki is where we are collecting our thoughts related to our goals with [Lea
 * Create summary/starting point pages (both in case others join the party and for ourselves to get a handle on everything)
 * Convert discussions/monologues into more wiki-pages unless the discussion is particularly worth saving. Examples: [Khan Academy]() [Competition Response]() [Spaced Repetition and Memory]() [Heisig Method]() [Flipped Classroom]()
 * Finish transferring 
+* Add other stuff that we have to rewrite repeatedly. E.g., "what is spaced repetition"--copy from various emails, reports, etc.
 * Figure out web hosting
 
 ### Transfered so far
@@ -47,6 +48,7 @@ This wiki is where we are collecting our thoughts related to our goals with [Lea
 
 The main iterations of Learnstream have code names:
 
+* [Learnstream Soup](): Stirred up SRS, video, text, and social in a cauldron known as [http://beta.learnstream.org]() . 
 * [Learnstream Atomic](): Introduced the idea of [Knowledge Components]() and uses a system of lessons and exercises for students to learn and study material.
 * [Learnstream Fruit](): A more streamlined process built on top of Learnstream Atomic
 * [Learnstream Plus](): Social features with Google+
@@ -62,6 +64,8 @@ These are some loose ends:
 * [User Study]()
 * [Graphic Design Inspiration]()
 * [Question Templates]()
+* [Experimenting With Learnstream]()
+* [Exercising With Learnstream]()
 
 ## Course content
 
@@ -85,13 +89,16 @@ These are some loose ends:
 
 # Philosophy/background research
 
-## Concepts
+## Major Concepts
 
 * [Productivity]()
 * [Learning]()
+* [Reading]()
 * [Flipped Classroom]()
 * [Spaced Repetition and Memory]()
 * [Heisig Method]()
+* [Computerizing Math]()
+* [Collaborative Learning]()
 
 ## Web service and software reviews
 
@@ -100,7 +107,7 @@ These are some loose ends:
 * [Andes Physics Tutor]()
 * [Online Language Learning Communities]()
 
-## Book reviews
+## Book/website reviews
 
 * [Use Your Head]()
 * [How Children Fail]()
@@ -108,23 +115,17 @@ These are some loose ends:
 * [Brain Rules]()
 * [Mindstorms]()
 * [Accidental Genius]()
+* [Study Hacks]()
 
 ## Unsorted 
 
 * [Cognitive Science Approach]()
 * [Education Model]()
-* [Collaborative Learning]()
 * [Collaboration and the Web]()
 * [Big Questions]()
 * [Learning Philosophies]()
 * [Serendipity and Information on the Web]()
-* [Question Templates]()
-* [Test-first Learning]()
-* [Exercising With Learnstream]()
 * [Knowledge for a Lifetime]()
-* [Computerizing Math]()
-* [Study Hacks]()
-* [Reading]()
 
 # Business
 
@@ -150,7 +151,7 @@ These are some loose ends:
 * [Math Textbook]()
 * [Markov Virtual Tutoring]()
 * [Problem Solving Tool]()
-
+* [Test-first Learning]()
 
 ## Other web apps/web services
 
