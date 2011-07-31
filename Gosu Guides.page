@@ -1,5 +1,47 @@
-I’m not quite sure how to pitch this. Our medium is the blog, and our goal is to make “Gosu Guides” to various things. The idea stems from enjoyment of the analysis of how things work and discussion of “solving” all kinds of things.
- 
-First imagine games: video games, card games, etc. We approach things with a strong AI/applied math/game theory/neuroscience perspective. We provide such things as analysis of the patterns of the game, algorithms or formulas for enhancing your play, and effective methods of practicing and learning (the neuroscience part). This of course ties into our other e-learning project ideas, and may lead to some interesting AI or math results down the road. The question is how good we’d actually be at doing this, and whether anyone would want to read it. I’m optimistic, given enough dedication.
- 
-I think a niche will enjoy this strongly analytic approach, and we can attempt to broaded our topics to popular things, like diet and fitness for one. That could eventually lead to revenue from adversting/ebooks/consulting/real books. But do it for passion first.
+# Pitch
+Struggling in school, switching jobs, or just looking for a new adventure? You could scour websites and forums for bits and pieces of ideas, or you could search GosuGuides for the complete walkthrough instantly. GosuGuides isn't a how-to site written in a content farm; it's a thorough guide to starting, practicing, and mastering a wide variety of areas along with a community and a wealth of tools to make the job easier. It isn't something you read once and forget about; it's there by your side throughout the journey. We're uniquely qualified to provide this service because we have background and experience in applying research from psychology, cognitive science, education, and mastery, and we provide an assortment of tools, some exclusively available through our service, that are proven effective for learning and practicing. As we grow, we'll look for "celebrity" contributors such as Day9 or Tim Ferris. We may charge for more extensive guides or individualized consulting service.
+
+## Alternative pitches
+ a portal for [tiger moms](http://www.time.com/time/magazine/article/0,9171,2043477,00.html) and other dedicated parents; other targeted audiences (must be tech-savy)
+
+## Alternative names
+Recipes for Success, Successipes? The only problem I have with GosuGuides is that it may compel one particular audience a little too strongly: Koreans. Er, I meant, Starcraft players. But for those not in the know, it's just something fun to say.
+
+## Tie-ins
+GosuGuides is a nice way to connect a lot of various ideas and projects we have and offers a fresh perspective for new and old ideas, particularly Learnstream. More examples on that later. It also could be a nice bridge to the tech/productivity consulting idea. GosuGuides may actually be implementable with the Learnstream Glue iteration that I'll eventually discuss.
+
+# Details
+
+## Format
+The format actually follows the [GameTheory Blog]() a little bit. Pretty simple:
+
+* We start with a walkthrough of the equipment, resources, and setup needed to get started. 
+* We describe the day-to-day practice that is required and discuss some of the hurdles that can be expected
+
+## Tools and techniques
+The magic comes from the tools and techniques that we suggest:
+
+* The highest quality books and videos to get started; the communities to follow to keep up with latest news or ask questions
+* How to read those book/watch those videos/visit those websites with tools like [URL Shuffle](), note-enhanced videos, speed-reading, etc.
+* How to set goals, what to [track](Personal Informatics) to monitor your progress, and how to interpret the numbers
+* How to figure out what you need to memorize and how to memorize those things with SRS; starting decks on our SRS tool
+* Deliberate practicing techniques
+
+Common tools and techniques can have their own Guides to reduce the amount of writing we have to do for each new topic.
+
+## Community features
+
+* Forums
+* Tracking of everyone following a particular guide; this would allow us to analyze learning curves and offer more refined advice; it also would be a nice way to prove effectiveness and possibly see what effects slightly different strategies have (we can randomly change the guides to experiment, hehe). These are very popular for games already. 
+* Tools that help people practice together
+
+## Structure
+
+* might be good to have different branches (if you're trying to learn any math you should start with this, then we'll talk about differential geometry specifically)
+* might be good to have different "flavors" (if we go with a recipe-related title)---different techniques that can't be stacked very well each have their own guide, and people can rate the different flavors
+* Learnstream Glue
+
+# Examples
+
+I'll come back to examples because they aren't trivial. Let me just say that this is a different way to think about Learnstream: instead of trying to build a tool that solves all of education from the bottom up, we have a set of techniques that are already known to be effective and think about what tools could be made that support those things. They don't all have to be on our site, unlike what we tried to do with LS beta (which I'm now calling LS Soup).
+
