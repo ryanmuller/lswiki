@@ -1,0 +1,53 @@
+# Overview
+
+collaborative research using web resources, social networks, and other computational tools with a focus on individual learning throughout the process (progress in research won't be made without people understanding the basics)
+
+example domains: math/science research, starcraft 2 (players collaboratively "research" new build orders, tactics, etc. and then apply this knowledge to improving their ability), poker, chess, or other fields with a large web presence and eagerness for mastery
+
+# Topics
+
+## Spread of knowledge on a social network
+
+like Facebook but going for *useful* knowledge -- how can current array of tools (Twitter, blogs, FB/G+) be improved?
+
+* scientific questions: relative quickness of ideas spreading?
+* computational tools: improvements to social aspects of LS soup
+* cognitive aspects: deciding to share something, deciding to pay attention to something
+
+## Tying learning tools into collaborative research
+
+how to peel off the things that need practice and/or memorization? (e.g. definitions can be memorized effectively with SRS); how does knowledge from the collaboration transfer to learning
+
+* scientific questions: do generic practices work as well for topic X as for topic Y? 
+* computational tools: LS Glue
+* cognitive aspects: 
+
+## Collaborative problem solving
+
+investigate and improve upon efforts like polymath, optimize allocation of effort, improve motivation 
+
+* scientific questions: 
+* tools: improve on polymath
+* cognitive aspects: cognitive load of on-going activity, motivation
+
+## Web video
+
+* scientific questions: is using video to learn effective?
+* tools: along the lines of Learnstream
+* cognitive aspects: cognitive load of video content
+
+## Scaffolded problem solving
+
+* scientific questions: does it work?
+* tools: extending quiz-embedded videos in LS Atomic
+* cognitive aspects: cognitive load of problem 
+
+## Spaced repetition for learning
+
+explore how to use spaced repetition for more than just simple facts
+
+* cognitive aspects: what is the basis for the effectiveness of "triggering" (if this really exists)?
+
+(look at some other lists -- LS minis, etc. where did i discuss DSL?)
+
+
