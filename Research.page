@@ -55,7 +55,7 @@ explore how to use spaced repetition for more than just simple facts
 
 ## Storing educational material 
 
-One foundational aspect of all of these topics is how the underlying knowledge content is stored. Can we improve the efficiency of various tools by finding a better way to represent the information? Some ideas: breaking up a topic into knowledge components expressed as questions, creating a DSL that allows ideas to be stored as variables and procedures
+One foundational aspect of all of these topics is how the underlying knowledge content is stored. Can we improve the efficiency of various tools by finding a better way to represent the information? Some ideas: breaking up a topic into knowledge components expressed as questions, creating a DSL that allows ideas to be stored as variables and procedures (Also, think about implications of having educational material in a procedural form -- like in Mindstorms, it could be used for simulations to build intuition)
 
 * tools: tool for creating a database of knowledge content, tool for retrieving information from the database
 
