@@ -1,8 +1,13 @@
 # Overview
 
-collaborative research using web resources, social networks, and other computational tools with a focus on individual learning throughout the process (progress in research won't be made without people understanding the basics)
+Our research involves enhancing collaborative learning and research through web resources, social networks, and other computational tools with a particular interest in domains where the knowledge base is rapidly changing so that research results directly impact learning goals. 
 
-example domains: math/science research, starcraft 2 (players collaboratively "research" new build orders, tactics, etc. and then apply this knowledge to improving their ability), poker, chess, or other fields with a large web presence and eagerness for mastery
+Examples: 
+
+* In math or science research, new results need to be evaluated and, if they are determined valid, assimilated into the knowledge of researchers. Currently, the evaluation process is primarily done through peer-review journals, and new results are presented at conferences. However, much interest has been shown in creating a faster method of publishing, using blogs and social networks to spread new results, etc.
+* In the strategy game Starcraft 2, players research new strategies and practices (primarily using the web). Players must continually learn these new ideas to stay on top of the game as it evolves.
+* Programmers must constantly learn new languages and tools and update their existing knowledge when software, hardware, and other factors are updated. 
+
 
 # Topics
 
@@ -48,6 +53,10 @@ explore how to use spaced repetition for more than just simple facts
 
 * cognitive aspects: what is the basis for the effectiveness of "triggering" (if this really exists)?
 
-(look at some other lists -- LS minis, etc. where did i discuss DSL?)
+## Storing educational material 
+
+One foundational aspect of all of these topics is how the underlying knowledge content is stored. Can we improve the efficiency of various tools by finding a better way to represent the information? Some ideas: breaking up a topic into knowledge components expressed as questions, creating a DSL that allows ideas to be stored as variables and procedures
+
+* tools: tool for creating a database of knowledge content, tool for retrieving information from the database
 
 
