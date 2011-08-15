@@ -4,8 +4,8 @@ Our research involves enhancing collaborative learning and research through web 
 
 ## Examples
 
-* In math or science research, new results need to be evaluated and, if they are determined valid, assimilated into the knowledge of researchers. Currently, the evaluation process is primarily done through peer-review journals, and new results are presented at conferences. However, much interest has been shown in creating a faster method of publishing, using blogs and social networks to spread new results, etc.
-* In the strategy game Starcraft 2, players research new strategies and practices (primarily using the web). Players must continually learn these new ideas to stay on top of the game as it evolves.
+* In math or science research, new results need to be evaluated and, if they are determined valid, assimilated into the knowledge of researchers. Currently, the evaluation process is primarily done through peer-review journals, and new results are presented at conferences. However, much interest has been shown in creating a faster method of publishing, using blogs and social networks to spread new results, getting help on tools like MathOverflow, and collaboratively solving problems (like [Polymath]())
+* In the strategy game Starcraft 2, players research new strategies and practices primarily using the web. Players must continually learn these new ideas to stay on top of the game as it evolves.
 * Programmers must constantly learn new languages and tools and update their existing knowledge when software, hardware, and other factors are updated. 
 
 
@@ -47,7 +47,6 @@ Our research involves enhancing collaborative learning and research through web 
 
 
 
-
 # Topics
 
 ## Spread of knowledge on a social network
@@ -55,7 +54,7 @@ Our research involves enhancing collaborative learning and research through web 
 like Facebook but going for *useful* knowledge -- how can current array of tools (Twitter, blogs, FB/G+) be improved? Also look at the social dynamics of (web) communities that work on collaborative learning and/or research
 
 * scientific questions: relative quickness of ideas spreading in various media?
-* computational tools: improvements to social aspects of LS soup
+* computational tools: improvements to social aspects of [Learnstream Soup]()
 * cognitive aspects: deciding to share something, deciding to pay attention to something
 
 ## Tying learning tools into collaborative research
@@ -63,12 +62,12 @@ like Facebook but going for *useful* knowledge -- how can current array of tools
 how to peel off the things that need practice and/or memorization? (e.g. definitions can be memorized effectively with SRS); how does knowledge from the collaboration transfer to learning
 
 * scientific questions: do generic practices work as well for topic X as for topic Y? 
-* computational tools: LS Glue
+* computational tools: [Learnstream Glue]()
 * cognitive aspects: 
 
 ## Collaborative problem solving
 
-investigate and improve upon efforts like polymath, optimize allocation of effort, improve motivation 
+investigate and improve upon efforts like [Polymath](), optimize allocation of effort, improve motivation 
 
 * scientific questions: 
 * tools: improve on polymath
@@ -83,7 +82,7 @@ investigate and improve upon efforts like polymath, optimize allocation of effor
 ## Scaffolded problem solving
 
 * scientific questions: does it work?
-* tools: extending quiz-embedded videos in LS Atomic
+* tools: extending quiz-embedded videos in [Learnstream Atomic]()
 * cognitive aspects: cognitive load of problem 
 
 ## Spaced repetition for learning
@@ -94,7 +93,7 @@ explore how to use spaced repetition for more than just simple facts
 
 ## Storing educational material 
 
-One foundational aspect of all of these topics is how the underlying knowledge content is stored. Can we improve the efficiency of various tools by finding a better way to represent the information? Some ideas: breaking up a topic into knowledge components expressed as questions, creating a DSL that allows ideas to be stored as variables and procedures (Also, think about implications of having educational material in a procedural form -- like in Mindstorms, it could be used for simulations to build intuition)
+One foundational aspect of all of these topics is how the underlying knowledge content is stored. Can we improve the efficiency of various tools by finding a better way to represent the information? Some ideas: breaking up a topic into knowledge components expressed as questions, creating a DSL that allows ideas to be stored as variables and procedures (Also, think about implications of having educational material in a procedural form -- like in [Mindstorms](), it could be used for simulations to build intuition)
 
 * tools: tool for creating a database of knowledge content, tool for retrieving information from the database
 
