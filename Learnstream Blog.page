@@ -122,6 +122,31 @@ Example: my creative way of doing double sine
 
 No, not those kinds of tests!!
 
+## Edupunk's Guide: The good, the bad, and the ugly
+
+My major gripe here is that self-education as presented by this guide generally misses the all-important aspect of validating what you think you are learning. That whole "critical thinking" thing that everyone says we Americans need to learn. I can't say I know how to teach you critical thinking, but your learning process has to involve _something_ that doesn't just assume every bit of expressed knowledge or opinion is making you more enlightened. 
+
+I'm going to cover a range of the resources and techniques mentioned here, not because the particular resource is very good or very bad but to point out how it is presented.
+
+* Google. The guide starts with the tip "Start with Google". Hey, Google is usually my first bet too. Today I searched for "Kirschner minimally guided instruction". How did I know I was interested in minimally guided instruction, to use that particular wording, and why the heck did I add some random dude's name in there? Because I actually have been following this area for several months, which has led me to learn the terminology, community, and important tenants of the field. So don't "start with Google". [1]
+* Dan Diebolt. If I were to put together my own guide, I would definitely include the "immersion theory" that is suggested in Dan's box, which is generally what got me those terms and names to search for. Dan basically suggests an approach to this by bootstrapping with Google search, but Dan here proves it isn't enough by misspelling the name of JQuery's creator John Resig ("Rezick"). Normally, I wouldn't care about typos, but his *entire point* here is that he's learned all about this guy through his method. Actually I don't know how you screw that up through Googling either...
+* Waiting for Superman. I enjoy documentaries and really liked watching Waiting for Superman. But we're talking about learning, and what did you learn from Waiting for Superman. I hope very little; as you can see in [this excellent review](http://www.nybooks.com/articles/archives/2010/nov/11/myth-charter-schools/), the movie gives a very misleading portrayal of the "public vs. charter" situation (a portrayal that is influencing millions of dollars from the likes of the Gates Foundation. Drama is enhanced when we know it's real footage, but that doesn't mean it portrays a nuanced and comprehensive viewpoint.  
+* Online communities. After watching Waiting for Superman, you go to your online community and everyone can agree how great it was. It takes a horrible, meanie professor to tell you to check your sources and look beyond anecdotal information. Of course those people sometimes exist in online communities as well; some of them are even great as a whole. Just use discretion.
+* Github. Github is an excellent education resource; it's absolutely worthless if you don't know how to use it. Do you really want to approach learning programming like humanity has approached astronomy? Get back to me in a few hundred years when you've discovered whether the while loop revolves around the rest of the program or vice versa. 
+
+I wouldn't do all that bickering without some retribution. So here's my mini-guide for Edupunks (or, as I call, it Indie Learning):
+
+* Get inspired. Watch your documentaries, TED talks, YouTube rantings of crazy people. Go local: art festivals, plays, public places. Go far away. Watch a super epic movie. One rule: if it's boring, stop. Here's your chance for pure self-indulgence because I subscribe to the belief that we can excel at and become passionate about anything. So enjoy it because the hard work is ahead. You can revisit this phase many times throughout your life, but it. isn't. your. education.
+* Who is good at this thing? The criterion for good is simply that they've succeeded in the same way that you want to. Figure it out and hunt them down. Depending on the thing, they may be professors, they may exist on a forum or website, they may be teaching lessons in your neighborhood, they may be hard to track down. The Edupunk guide has some good advice about contacting people (I don't because I'm a social recluse), but depending on the nature of it, you may respond in various ways: personal contact, reading their blog/forum/etc, getting into a job or educational program with them.
+* Find a deliberate practice that others have used to succeed. 
+* Find a metric to, as objectively as possible, evaluate yourself. Do this periodically. Set numerical goals for yourself. When you aren't meeting those goals, go to your mentor and/or community and tell them what problem you have and ask how to fix it.
+* Stay immersed
+* Improve yourself in many dimensions. Most importantly, learn how to learn: future posts on this site will help. Get enough money: Ramit Sethi talks about how to do this with whatever talents you are now developing (and he's more relentless than a report card). 
+
+[1] Start with our First Step guides; coming soon! Of course, it will be hand-picked for methods with proven results, so they'll come slowly. In the meantime... Google it? 
+[2] Incidentally, the Gates foundation also funds the author of this guide. Hmm... watch my open education YouTube lectures where I further unfold this conspiracy
+
+
 # Recurring features
 
 ## Learning log
